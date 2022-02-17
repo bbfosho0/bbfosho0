@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bbfosho0
+- 👋 Hi, I’m Yoshi!
 - 👀 I’m interested in summer 2022 internships
 - 🌱 I’m currently learning Full-Stack Development
 - 💞️ I’m looking to collaborate on just about anything
