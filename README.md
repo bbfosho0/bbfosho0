@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on just about anything
 - 📫 How to reach me: yoshi.sharpi@gmail.com
 
+https://yoshigutierrez.netlify.app/
+
 <!---
 bbfosho0/bbfosho0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
