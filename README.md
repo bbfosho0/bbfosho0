@@ -1,64 +1,67 @@
-# Yoshi Gomez
+# Yoshi Gomez Gutierrez
 
-Python-first full stack developer focused on backend systems, cloud-ready analytics tools, and practical user-facing applications.
+Full-stack software developer building enterprise workflow applications, data products, typed APIs, and polished user-facing systems.
 
-I build projects that connect data, APIs, interfaces, and real workflows. My strongest language is Python, and I have a solid foundation in object oriented programming, backend architecture, full stack development, and system design.
+I work across backend architecture, frontend development, relational and document databases, realtime communication, analytics pipelines, automated testing, and deployment. My projects focus on realistic business workflows rather than isolated demonstrations.
 
-## What I Work With
+## Core Stack
 
-**Languages:** Python, JavaScript, TypeScript, HTML, CSS  
-**Backend:** FastAPI, Flask, Express, Node.js, REST APIs, JWT auth  
-**Frontend:** React, Next.js, Tailwind CSS, Framer Motion  
-**Databases:** MongoDB, SQLite, Sanity CMS, Parquet-based data workflows  
-**Cloud and Tools:** AWS architecture concepts, Git, GitHub, Vercel, Netlify, Render  
-**Testing and Quality:** Pytest, validation, API contracts, structured project architecture
+**Languages:** Java, Python, TypeScript, JavaScript, SQL, HTML, CSS  
+**Backend:** Spring Boot, FastAPI, Express, Node.js, REST APIs, WebSockets, JWT  
+**Frontend:** Angular, React, Next.js, Tailwind CSS, Material UI  
+**Data:** PostgreSQL, MongoDB, SQLite, DuckDB, Parquet, Polars  
+**Testing:** JUnit 5, MockMvc, Testcontainers, Pytest, Jasmine, Karma, Playwright  
+**Delivery:** Docker Compose, GitHub Actions, Flyway, OpenAPI, Render, Vercel, GitHub Pages
 
 ## Featured Projects
 
-### AWS Serverless Support Analytics
+### ClaimsFlow
 
-Cloud-ready analytics workbench that simulates an AWS-style support data pipeline.
+Enterprise insurance claims operations portal built as a modular monolith.
 
-- Built with FastAPI, Pydantic, Python ETL tools, Next.js, TypeScript, and dashboard UI components
-- Uses local Parquet and manifest artifacts to mirror an S3 and Glue-style analytics flow
-- Designed around clean API contracts, data visualization, and future AWS migration
+- Java 21, Spring Boot, Angular, PostgreSQL, Flyway, and Spring Data JPA
+- Controlled claim workflows, assignment, decision support, validation, and immutable auditing
+- JUnit, MockMvc, Testcontainers, frontend tests, Docker Compose, OpenAPI, and GitHub Actions
 
-[View Project](https://github.com/bbfosho0/aws-serverless-support-analytics)
+[View ClaimsFlow](https://github.com/bbfosho0/ClaimsFlow)
+
+### Customer Success Analytics Command Center
+
+End-to-end analytics engineering and full-stack delivery system.
+
+- Python and Polars ETL feeding DuckDB and Parquet marts
+- Typed FastAPI contract consumed by a routed Next.js and TypeScript dashboard
+- Salesforce LWC, Apex, CRM Analytics-ready exports, automated tests, and public demos
+
+[View Repository](https://github.com/bbfosho0/Customer-Success-Analytics-Command-Center)  
+[Open Live Demo](https://bbfosho0.github.io/Customer-Success-Analytics-Command-Center/)
 
 ### ShigoChat
 
-Full stack real-time chat application with authentication, message CRUD, and polished UI.
+Deployed realtime chat application with authenticated communication and persistent state.
 
-- Built with React, Express, Socket.IO, MongoDB, JWT, and bcrypt
-- Supports registration, login, real-time messaging, message editing, and deletion
-- Focused on responsive UI, secure routes, and synchronized client-server state
+- React, Express, Socket.IO, MongoDB, JWT, and bcrypt
+- Registration, authentication, message CRUD, ownership enforcement, and realtime synchronization
+- Responsive interface with accessible controls and persisted themes
 
-[View Project](https://github.com/bbfosho0/ShigoChattingApp)
+[View Repository](https://github.com/bbfosho0/ShigoChattingApp)  
+[Open Live App](https://shigochat.onrender.com/)
 
-### Python Algorithm Visualizer
+### Genesis 33
 
-Interactive algorithm visualizer built around Python streaming and a React canvas UI.
+Production website delivered for a real client.
 
-- Uses Python generators, Flask streaming, and React state orchestration
-- Visualizes sorting and graph algorithms through immutable JSON snapshots
-- Includes pytest coverage for correctness and snapshot safety
+- React, Vite, Tailwind CSS, Formspree, custom-domain deployment, and responsive design
+- Translated design requirements into a maintained public business site
 
-[View Project](https://github.com/bbfosho0/Python-Algorithm-Visualizer)
-
-### Ecommerce Audio Store
-
-Full stack ecommerce application for audio products.
-
-- Built with Next.js, React, Sanity CMS, Stripe checkout, and serverless API routes
-- Includes product pages, cart state, checkout flow, responsive design, and user feedback
-
-[View Project](https://github.com/bbfosho0/ecommerce_project)
+[Open Live Site](https://genesis33inc.com/)
 
 ## Current Focus
 
-I’m focused on growing as a software developer through Python backend development, cloud-ready architecture, full stack systems, and clean user-facing software.
+I am focused on junior full-stack and backend engineering roles where I can contribute to APIs, business workflows, data-intensive systems, testing, and product delivery.
 
 ## Contact
 
-Email: yoshi.sharpi@gmail.com  
-Portfolio: https://bbfosho0.github.io/Portfolio-2026/
+**Email:** yoshi.sharpi@gmail.com  
+**Portfolio:** https://bbfosho0.github.io/Portfolio-2026/  
+**GitHub:** https://github.com/bbfosho0
